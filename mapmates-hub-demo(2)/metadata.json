@@ -1,0 +1,8 @@
+{
+  "name": "MapMates Hub Demo",
+  "description": "A premium futuristic showcase for MapMates Hub, a realtime social navigation and community platform. Created by Faizan Zeeshan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
